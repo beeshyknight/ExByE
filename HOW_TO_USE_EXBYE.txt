@@ -1,0 +1,19 @@
+EXBYE v5.6 – GETTING STARTED
+
+1. EXTRACT THE ZIP and open index.html (or ExByE.html) in Chrome or Edge.
+2. SIGN IN. For full access use EXB-CONSULT / 9090.
+   Staff users EXB-001 to EXB-030 use codes 4001 to 4030 respectively.
+   Example: EXB-014 / 4014. These are local codes, not Firebase passwords.
+3. OPEN A PATIENT. Choose Patients (top) or Find a person (left), search for Zoe Carter, Freddy Mason, Tommy Reed, Robby Ellis, Gwen Harris, Isla Bennett or Ethan Okafor, then select the record.
+4. CLINICAL NOTES. Choose Record consultation on Patient Home, or Chronology > + New Consultation. Complete and save.
+5. REVIEW A JOURNAL ENTRY. Open Chronology, select For review on an entry, choose a recipient staff identifier, enter the reason and due date, then save. Complete the review in the same area later.
+6. ASSESSMENTS. Open Gwen Harris > Risk assessments > Comprehensive assessment. Complete domains, Save draft, reopen later, or Sign assessment. The signed assessment adds a journal entry and review recall.
+7. CARE PLANS. Choose Care plans to record goals, actions, named professional and review date. Use the plan review functions to record changes.
+8. OTHER AREAS. Observations: NEWS2. Tests & results: laboratory panels. Medicines: current medicines and medication entries. Worklists: allocated actions.
+9. BACKUP. As EXB-CONSULT choose Tools (top right) > Export backup. Save the JSON file. Restore with Tools > Import backup.
+10. SIGN OUT. Use the user identifier control at the top-right. Another staff member can then sign in.
+
+IMPORTANT:
+The standalone file saves to the current browser only. It does not share records between devices. Do not use real patient details. The Firebase version needs configuring first; its account passwords are created separately and will not be 4001–4030.
+
+For illustrated instructions open HOW_TO_USE_EXBYE.html.
